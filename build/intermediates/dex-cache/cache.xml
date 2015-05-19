@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Wipac\DECOPROJECT\android-Camera2Video\Application\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9346da9fb778af9e451211bbc3541daced174ba7">
+        <dex dex="D:\Wipac\DECOPROJECT\android-Camera2Video\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-d348a66222cb88d3b8eed0fbe60e911a1adcd75d.jar" />
+    </item>
+    <item
+        jar="D:\Wipac\DECOPROJECT\android-Camera2Video\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="D:\Wipac\DECOPROJECT\android-Camera2Video\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-e2f92aef4d0309b418563d5e3ed54a890c71511c.jar" />
+    </item>
+    <item
+        jar="D:\Wipac\DECOPROJECT\android-Camera2Video\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="D:\Wipac\DECOPROJECT\android-Camera2Video\Application\build\intermediates\pre-dexed\debug\classes-4fa07ba7c42800294ff6b6d567e48bc2e8e20bf9.jar" />
+    </item>
+    <item
+        jar="D:\Wipac\DECOPROJECT\android-Camera2Video\Application\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61965ae058916e6a57950dd61b0164dc866af19a">
+        <dex dex="D:\Wipac\DECOPROJECT\android-Camera2Video\Application\build\intermediates\pre-dexed\debug\classes-d4f8efa86870d3fa97bd328624e3db821871f59e.jar" />
+    </item>
+    <item
+        jar="D:\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="D:\Wipac\DECOPROJECT\android-Camera2Video\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-644f1fb9143f9421813b635a264cb7aa256453b7.jar" />
+    </item>
+    <item
+        jar="D:\Wipac\DECOPROJECT\android-Camera2Video\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="D:\Wipac\DECOPROJECT\android-Camera2Video\Application\build\intermediates\pre-dexed\debug\classes-63cfa0b392a5b93eab0084ea53e6e787b9318362.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,7 @@
+D:\Wipac\DECOPROJECT\android-Camera2Video\Application\build\intermediates\classes\debug
+D:\Wipac\DECOPROJECT\android-Camera2Video\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-d348a66222cb88d3b8eed0fbe60e911a1adcd75d.jar
+D:\Wipac\DECOPROJECT\android-Camera2Video\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-644f1fb9143f9421813b635a264cb7aa256453b7.jar
+D:\Wipac\DECOPROJECT\android-Camera2Video\Application\build\intermediates\pre-dexed\debug\classes-d4f8efa86870d3fa97bd328624e3db821871f59e.jar
+D:\Wipac\DECOPROJECT\android-Camera2Video\Application\build\intermediates\pre-dexed\debug\classes-63cfa0b392a5b93eab0084ea53e6e787b9318362.jar
+D:\Wipac\DECOPROJECT\android-Camera2Video\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-e2f92aef4d0309b418563d5e3ed54a890c71511c.jar
+D:\Wipac\DECOPROJECT\android-Camera2Video\Application\build\intermediates\pre-dexed\debug\classes-4fa07ba7c42800294ff6b6d567e48bc2e8e20bf9.jar
